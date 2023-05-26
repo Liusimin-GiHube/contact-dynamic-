@@ -1,0 +1,6 @@
+﻿  contact.c
+D:\Documents\C语言程序设计\contact(dynamic)\contact(dynamic)\contact.c(74,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“long *”
+D:\Documents\C语言程序设计\contact(dynamic)\contact(dynamic)\contact.c(91,10): warning C4477: “printf”: 格式字符串“%-12s”需要类型“char *”的参数，但可变参数 4 拥有了类型“long *”
+D:\Documents\C语言程序设计\contact(dynamic)\contact(dynamic)\contact.c(124,10): warning C4477: “printf”: 格式字符串“%-12s”需要类型“char *”的参数，但可变参数 4 拥有了类型“long *”
+D:\Documents\C语言程序设计\contact(dynamic)\contact(dynamic)\contact.c(202,10): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“long *”
+  contact(dynamic).vcxproj -> D:\Documents\C语言程序设计\contact(dynamic)\x64\Debug\contact(dynamic).exe
